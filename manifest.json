@@ -1,6 +1,6 @@
 {
-  "name": "Giudice FISB",
-  "short_name": "Giudice FISB",
+  "name": "Calcolo punteggi",
+  "short_name": "Calcolo punteggi",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#232B38",
